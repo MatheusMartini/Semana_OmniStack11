@@ -7,7 +7,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matheus Martini",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
